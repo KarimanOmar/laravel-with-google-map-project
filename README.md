@@ -1,3 +1,7 @@
+
+![Web capture_10-10-2023_205127_127 0 0 1](https://github.com/KarimanOmar/laravel-with-google-map-project/assets/144020480/1f9aae9d-52e2-4576-ad9d-007485f126b6)
+![Web capture_10-10-2023_205146_127 0 0 1](https://github.com/KarimanOmar/laravel-with-google-map-project/assets/144020480/a7b9ffab-ac75-4b44-900b-4011d5519f2a)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
